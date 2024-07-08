@@ -1,4 +1,3 @@
 # spoorthy-deeds-demo
-this is my first Git Repository.
-<br>
+this is my first Git Repository.<br>
 Author-Sai Spoorthy
